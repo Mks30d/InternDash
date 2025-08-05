@@ -1,16 +1,13 @@
-# interndash
+# InternDash
+Login Page
+![Login Page](https://github.com/Mks30d/InternDash/blob/main/assets/Login.png)
 
-A new Flutter project.
+Dashboard Page
+![Dashboard Page](https://github.com/Mks30d/InternDash/blob/main/assets/Dashboard.png)
 
-## Getting Started
+Leaderboard Page
+![Leaderboard Page](https://github.com/Mks30d/InternDash/blob/main/assets/Leaderboard.png)
 
-This project is a starting point for a Flutter application.
+Announcements Page
+![Announcements Page](https://github.com/Mks30d/InternDash/blob/main/assets/Announcements.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
