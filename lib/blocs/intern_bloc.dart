@@ -15,11 +15,11 @@ class InternBloc extends Bloc<InternEvent, InternState> {
       );
 
       final leaderboard = [
+        {'name': 'Rohan', 'donations': 7500},
         {'name': 'Deepak', 'donations': 6000},
-        {'name': 'Ram', 'donations': 5500},
         {'name': 'Manish', 'donations': 5000},
-        {'name': 'Prabhat', 'donations': 4800},
-        {'name': 'Ravi', 'donations': 4500},
+        {'name': 'Aryan', 'donations': 4800},
+        {'name': 'Rohit', 'donations': 4500},
       ];
 
       emit(InternLoaded(intern: intern, leaderboard: leaderboard));
